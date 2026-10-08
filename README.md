@@ -16,6 +16,13 @@ The project focuses on building a polished storefront while keeping the architec
 </p>
 
 ---
+## ✨ preview
+
+
+
+
+<img width="1897" height="982" alt="image" src="https://github.com/user-attachments/assets/37afe948-4785-47d4-93ea-55e8c294dc4e" />
+
 
 ## ✨ Overview
 
